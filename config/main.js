@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "mgames"; // Change this to change the name of your website.
+var sitename = "MGames"; // Change this to change the name of your website.
 var subtext = "v1.52"; // set the subtext
 
 // more settings in main.css
