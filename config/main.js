@@ -12,7 +12,7 @@ var subtext = "v1.52"; // set the subtext
 
 import "/./config/custom.js";
 
-var serverUrl1 = "https://amsinite.github.io/mgameserver/";
+var serverUrl1 = "https://amsinite.github.io/gms/";
 var currentPageTitle = document.title;
 document.title = `${currentPageTitle} | ${sitename}`;
 let gamesData = []; 
