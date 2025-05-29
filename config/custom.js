@@ -1,1 +1,1 @@
-// Place your Javascript Here
+// paste your custom js code here v2
