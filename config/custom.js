@@ -1,1 +1,2 @@
-// paste your custom js code here v2
+// Force rebuild: adding this line to prevent 404
+console.log("Custom JS loaded");
